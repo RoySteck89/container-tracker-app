@@ -1,0 +1,13 @@
+[
+  {
+    "version": "v1.0.0",
+    "date": "15.10.2026",
+    "title": "Cyberpunk Redesign & Live-Tageszähler",
+    "changes": [
+      "Auslagerung aller Styles in die eigene style.css",
+      "Neuer Cyberpunk Dark-Blue Look mit Leuchteffekten",
+      "Live-Tageszähler direkt beim Erfassen von Containern",
+      "Anpassung der Info-Karten & dynamisches Changelog"
+    ]
+  }
+]
